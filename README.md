@@ -16,7 +16,7 @@
 ## Инструменты и технологии
 
 ### Ручное тестирование | Web - тестирование | Mobile -тестирование | Postman | SoapUI |
-### Charles Proxy | Git | Linux | Docker | VirtualBox | Python |
+### Charles Proxy | Git | Linux | Docker | VirtualBox | Java | Python |
 ### Pytest | Selenium | JSON | XML | HTML5 | CSS3 |
 ### Bash | Agile | Scrum | Kanban | Swagger | TMS
 
